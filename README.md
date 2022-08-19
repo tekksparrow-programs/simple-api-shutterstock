@@ -19,7 +19,7 @@ Youtube Simple API series example for Shutter Stock
 `python3 simple-api-shutter.py`
 
 # Video Tutorial
-
+https://www.youtube.com/watch?v=qurxvE7lhX0
 
 # Links
 developer landing page: https://www.shutterstock.com/api/pricing
